@@ -7,10 +7,10 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>coupons</artifactId>
+    <artifactId>payment-service</artifactId>
     <packaging>jar</packaging>
 
-    <name>coupons</name>
+    <name>payment-service</name>
     <url>http://maven.apache.org</url>
 
     <properties>
